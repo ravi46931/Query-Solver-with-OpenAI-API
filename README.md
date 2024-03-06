@@ -13,9 +13,10 @@ This first time I use *openai api*
 `
 pip install --upgrade openai
 `
-OPENAI_API_KEY = 'sk-hRsOQlAeh0y7Rhghdjfhvkdfjvj'
+<br>
+OPENAI_API_KEY = 'sk-hRsOQlAeh0y7Rhghdjfhvkdfjvj' <br>
 
-
+**REPOSITORY LINK** `https://github.com/ravi46931/Query-Solver-with-OpenAI-API.git`
 
 
 
